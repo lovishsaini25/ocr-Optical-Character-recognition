@@ -1,6 +1,4 @@
-# ocr-Optical-Character-recognition
-
-Requirements:-
+# Requirements:-
 ## OpenCV -
 ### UBUNTU
 sudo apt update
